@@ -8,3 +8,11 @@
 
 ## luego, hay que esperar a que nuestro compañero de trabajo acepte la solicitud en colaborar en el repositorio
 ![image](https://github.com/AnthonyG21/PROWEB_AnthonyGoncalves/assets/126922230/9b2819de-6583-498b-8669-30b66b6c56b4)
+
+## La creación de branchs se pueden hacer de dos métodos
+
+### Desde Github
+
+
+
+### Como también por medio de comandos en Git Bash
