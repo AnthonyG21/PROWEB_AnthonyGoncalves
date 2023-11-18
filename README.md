@@ -12,7 +12,6 @@
 ## La creación de branchs se pueden hacer de dos métodos
 
 ### Desde Github
-
-
+![image](https://github.com/AnthonyG21/PROWEB_AnthonyGoncalves/assets/126922230/3d66238e-5209-4df6-8417-5a6d287147bd)
 
 ### Como también por medio de comandos en Git Bash
