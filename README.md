@@ -22,3 +22,6 @@ se clona el repositorio
 
 se adentra en la carpeta para asi poder crear la branch
 ![image](https://github.com/AnthonyG21/PROWEB_AnthonyGoncalves/assets/126922230/6c1badcc-6c3f-4ea4-b536-cdc21fc6d414)
+
+una vez creada, solo hace falta hacerle push y listo
+![image](https://github.com/AnthonyG21/PROWEB_AnthonyGoncalves/assets/126922230/5152d825-7885-4211-a239-2191e9d10997)
