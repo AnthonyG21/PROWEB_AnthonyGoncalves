@@ -1,5 +1,5 @@
 body {
-background-image:url('PROWEB_AnthonyGoncalves/img/dragonball.png');
+background-image:url('../img/dragonball.png');
 display: grid;
 place-items: center;
 }
