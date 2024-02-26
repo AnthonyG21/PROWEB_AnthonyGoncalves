@@ -1,0 +1,191 @@
+body {
+background-image: url(/Aniblog/img/dragonball.jpg);
+display: grid;
+    place-items: center;
+}
+
+.titulo{
+    color: black;
+    padding: 10px;
+}
+
+.caja{
+    background-color: wheat;
+    width: 1000px;
+    
+}
+.aniblog {
+    color: black;
+    font-size: 50px;
+}
+
+.navbar .form-control ~ .orange-button {
+    background-color: black;
+    border-color: orange;
+    color: orange; 
+  }
+
+  a, img {
+    margin-right: 10px;
+  }  
+  
+.navbar {
+    background-color: wheat;
+    padding: 200%;
+  }
+  
+.strong{
+    color: blue;
+}
+
+  .articulo {
+    background-color: burlywood;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .articulo header {
+    margin-bottom: 10px;
+  }
+  
+  .articulo h1 {
+    font-size: 1.5em;
+    margin: 0;
+  }
+  
+  .articulo .meta {
+    font-size: 0.8em;
+    margin-top: 5px;
+  }
+  
+  .articulo .meta span {
+    margin-right: 5px;
+  }
+  
+  .articulo .imagen-principal {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  .articulo p {
+    margin-bottom: 10px;
+  }
+  
+  .articulo h2 {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+
+
+  .FlexContainer {
+    display: flex;
+    width: 100%;
+    background-color: burlywood;
+}
+  .post {
+   text-align: left;
+   flex-grow: 2;
+  }
+  
+  .imagen-post1 img {
+    display: block;
+    width: 200px;
+    height: 70%;
+    margin-right: 50px;
+  }
+
+  .imagen-post img{
+    display: block;
+    width: 200px;
+    height: 70%;
+    margin-right: 10px;
+  }
+
+  footer{
+    color: black;
+    font-size: 25px;
+    background-color: 	F5F5DC;
+  }
+
+  .etiquetas {
+    list-style: none; 
+    padding: 0; 
+}
+
+.etiquetas li {
+    display: inline-block; 
+    background-color: wheat; 
+    padding: 5px 10px; 
+    border-radius: 20px;
+    margin-right: 10px;
+    border: 1px solid #ccc; 
+}
+
+.etiquetas li img {
+    vertical-align: middle; 
+    margin-left: 5px;
+}
+
+.nav-item {
+  margin-bottom: 50px; /* Adjust the value as needed */
+}
+
+
+.footer{
+  background:rgb(246, 216, 178);
+  padding:30px 0px;
+  font-family: 'Play', sans-serif;
+  text-align:center;
+  }
+  
+  .footer .row{
+  width:100%;
+  margin:1% 0%;
+  padding:0.6% 0%;
+  color:rgb(88, 75, 75);
+  font-size:0.8em;
+  }
+  
+  .footer .row a{
+  text-decoration:none;
+  color:rgb(79, 73, 73);
+  transition:0.5s;
+  }
+  
+  .footer .row a:hover{
+  color:#fff;
+  }
+  
+  .footer .row ul{
+  width:100%;
+  }
+  
+  .footer .row ul li{
+  display:inline-block;
+  margin:0px 30px;
+  }
+  
+  .footer .row a i{
+  font-size:2em;
+  margin:0% 1%;
+  }
+  
+  @media (max-width:720px){
+  .footer{
+  text-align:left;
+  padding:5%;
+  }
+  .footer .row ul li{
+  display:block;
+  margin:10px 0px;
+  text-align:left;
+  }
+  .footer .row a i{
+  margin:0% 3%;
+  }
+  
+  }
