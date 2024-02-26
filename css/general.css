@@ -89,6 +89,7 @@ place-items: center;
   .post {
    text-align: left;
    flex-grow: 2;
+    margin-left:20px;
   }
   
   .imagen-post1 img {
