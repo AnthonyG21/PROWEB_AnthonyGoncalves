@@ -1,5 +1,5 @@
 body {
-background-image:url('img/dragonball.jpg');
+background-image:url(../../img/dragonball.jpg);
 display: grid;
     place-items: center;
 }
